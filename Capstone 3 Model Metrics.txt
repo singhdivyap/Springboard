@@ -1,0 +1,10 @@
+Model Metrics File for Capstone 3
+
+Final model chosen: random forest classifier model
+Package used: sklearn
+Hyperparameters: max depth of 10 trees, 200 estimators, 3 samples required to be at a leaf node, 
+4 samples required to split an internal node
+
+Performance metrics: 
+- Precision: 86.3%
+- Recall: 89.4%
