@@ -1,0 +1,10 @@
+Model Metrics File for Capstone 2
+
+Final model chosen: random forest regression model
+Package used: sklearn
+Hyperparameters: 200 estimators, 6 columns (sqrt of the total features), and 30 nodes
+Performance metrics: 
+- r^2 (training set): 0.93
+- r^2 (test set): 0.60
+- mean absolute error (training set): 4.46
+- mean absolute error (test set): 10.4
